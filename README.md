@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![ReactJS](https://img.shields.io/badge/-React-BF4722?style=flat-square&logo=react)
-##![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js)
+<!-- ![NextJS](https://img.shields.io/badge/-NextJS-000000?style=flat-square&logo=Next.js) -->
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=NestJS)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-black?style=flat-square&logo=Express)
