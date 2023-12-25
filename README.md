@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi there,&nbsp; I'm Mohsin! <img src="https://raw.githubusercontent.com/faizahmedfarooqui/faizahmedfarooqui/master/wave.gif" width="30px"></h1>
 
-              
+<pre><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="mohsin-nawaz-baig" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/mohsin-nawaz-baig?trk=profile-badge">Mohsin Baig</a></div>
+              </pre>          
 <p align="center">
  <a href="https://www.linkedin.com/in/mohsin-baig-108112157/" target="_blank">
   <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
